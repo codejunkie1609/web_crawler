@@ -1,0 +1,35 @@
+Name: Sricharan Koride
+USC ID: 2343517466
+News site crawled: latimes.com/
+Number of threads: 8
+
+Fetch Statistics
+================
+# fetches attempted: 20006
+# fetches succeeded: 19936
+# fetches failed or aborted: 70
+
+Outgoing URLs:
+==============
+Total URLs extracted: 3763042
+# unique URLs extracted: 296914
+# unique URLs within News Site: 69348
+# unique URLs outside News Site: 227566
+
+Status Codes:
+=============
+200: 19936
+404: 69
+500: 1
+
+File Sizes:
+===========
+<1KB: 0
+1KB-<10KB: 0
+10KB-<100KB: 48
+100KB-<1MB: 19785
+>=1MB: 102
+
+Content Types:
+==============
+text/html: 19936
